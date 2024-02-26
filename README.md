@@ -14,7 +14,6 @@ tqdm library
 Installation
 Ensure you have Python 3.x installed on your system.
 Install the required libraries:
-lua
 pip install path tqdm getch
 Usage
 Run the script:
