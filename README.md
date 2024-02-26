@@ -15,11 +15,9 @@ Installation
 Ensure you have Python 3.x installed on your system.
 Install the required libraries:
 lua
-Copy code
 pip install path tqdm getch
 Usage
 Run the script:
-Copy code
 python file_control_v2.py
 Select a text file containing filenames when prompted.
 The script will remove duplicate filenames, transfer the files from the source directory to the target directory, and display progress bars for each transfer.
